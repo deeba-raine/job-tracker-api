@@ -1,4 +1,4 @@
-# Job Tracker API
+# Job Tracker APP
 
 A backend-focused application with a simple HTML/CSS interface that helps users organize, monitor, and manage job applications throughout the job search process.
 
@@ -39,20 +39,5 @@ From there I plan to start layering in things that make it feel like a real API 
 - sorting on the list endpoint
 
 
-## Getting Started
-This is how everyone use this project
-```bash
-# Clone the repository
-git clone https://github.com/deeba-raine/job-tracker-api.git
 
-# Install dependencies
-cd job-tracker-api
-npm install
-
-# Set up environment variables
-# Create a .env file with your MySQL credentials (see .env.example)
-
-# Run the development server
-npx ts-node server.ts
-```
 
